@@ -9,9 +9,6 @@ https://github.com/kalash260203/Number-Guessing-Game
   <img width="528" height="451" alt="image" src="https://github.com/user-attachments/assets/3ebf7b73-a9b4-4480-af52-2e1ec157b511" />
 </p>
 
-
-
-
 ## Features
 - Random number generation
 - Three difficulty levels
