@@ -1,7 +1,12 @@
 # Number Guessing Game
 
 A simple C++ console game where the player tries to guess a randomly generated number between 1 and 100. The game offers three difficulty levels: Easy, Medium, and Hard, each with a different number of chances.
-<img width="528" height="451" alt="image" src="https://github.com/user-attachments/assets/3ebf7b73-a9b4-4480-af52-2e1ec157b511" />
+
+<p align="center">
+  <img width="528" height="451" alt="image" src="https://github.com/user-attachments/assets/3ebf7b73-a9b4-4480-af52-2e1ec157b511" />
+</p>
+
+
 
 
 ## Features
